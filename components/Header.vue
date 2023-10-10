@@ -1,7 +1,6 @@
 <template>
     <nav class="navbar navbar-expand-lg bg-light">
         <div class="container">
-            <NuxtLink class="navbar-brand" to="/">webprog.io</NuxtLink>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
